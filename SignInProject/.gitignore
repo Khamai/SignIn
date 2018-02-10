@@ -1,1 +1,4 @@
 /build/
+
+#Ignore LoginDao.java file which contains database connection. Each user has a different database.
+LoginDao.java
