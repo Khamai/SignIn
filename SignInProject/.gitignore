@@ -1,3 +1,0 @@
-
-#Ignore LoginDao file which contains database connection. Each user has a different database.
-/SignInProject/src/com/amzi/dao/LoginDao.java
