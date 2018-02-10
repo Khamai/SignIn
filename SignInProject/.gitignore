@@ -1,4 +1,4 @@
 /build/
 
-#Ignore LoginDao.java file which contains database connection. Each user has a different database.
-/src/com.amzi.dao
+#Ignore LoginDao file which contains database connection. Each user has a different database.
+LoginDao*
